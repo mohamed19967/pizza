@@ -442,6 +442,7 @@ footer {
     padding-right: 120px;
     text-align: start;
     display: flex;
+    justify-content: center;
     color: #ffffff;
 }
 footer ul {
